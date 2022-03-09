@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/6.0/footprints/BeaupreCircuitDesign.pretty")(options "")(descr ""))
+  (lib (name "Creative_Common")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/6.0/footprints/Creative_Common.pretty")(options "")(descr ""))
+  (lib (name "C64-Expansion-Port")(type "KiCad")(uri "${KIPRJMOD}/C64-Expansion-Port.pretty")(options "")(descr ""))
+  (lib (name "MegaCart-64")(type "KiCad")(uri "D:/KiCad/Projets/Pi1541/Shared/Display_I2C_OLED.pretty/MegaCart-64.pretty")(options "")(descr ""))
+)

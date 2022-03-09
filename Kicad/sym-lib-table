@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/6.0/symbols/BeaupreCircuitDesign.kicad_sym")(options "")(descr ""))
+  (lib (name "CreativeCommons")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/6.0/symbols/CreativeCommons.kicad_sym")(options "")(descr ""))
+  (lib (name "C64-Expansion-Port")(type "KiCad")(uri "${KIPRJMOD}/C64-Expansion-Port.pretty/C64-Expansion-Port.kicad_sym")(options "")(descr ""))
+  (lib (name "MegaCart-64")(type "KiCad")(uri "${KIPRJMOD}/MegaCart-64.kicad_sym")(options "")(descr ""))
+)
